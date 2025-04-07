@@ -1,9 +1,28 @@
-#Google_Cloud_Arcade
+🌩️ Google Cloud Arcade 2025 – Step-by-Step Participation Guide
 
-Unlock your cloud potential with this curated resource! The provided link offers access to free skill badges, credit-free courses, and lab-based learning paths designed to help you upskill efficiently on Google Cloud.
+📌 Step-by-Step Guide
 
-📄 Resource Link: https://docs.google.com/spreadsheets/d/1ELzh0OkAH_qY_Y_03Onp5l_XColmfsaLhQe_VqahYAM/edit?gid=0#gid=0 
+✅ 1. Subscribe to the Arcade Program
+Visit: https://go.cloudskillsboost.google/arcade?utm_source=qwiklabs&utm_medium=lp&utm_campaign=old-site
+Subscribe using your Gmail account.
 
-This spreadsheet serves as a roadmap for learners aiming to stay on track, earn valuable credentials, and enhance their cloud expertise—without worrying about costs.
+📢 Important: Without subscribing, you won't receive updates or rewards.
 
-💡 Stay consistent, stay curious, and accelerate your journey in cloud computing.
+✅ 2. Create an Account on Cloud Skills Boost
+Visit: https://www.cloudskillsboost.google/
+Sign up with the same Gmail used in Arcade.
+Make your profile public in the settings.
+
+✅ 3. Enable Email Preferences
+Go to account settings and enable:
+Send me occasional product updates, announcements, and offers
+Opt me in for extended time accommodations when applicable
+
+✅ 4. Track and Learn
+Use this sheet to know about labs and skill badges:
+https://docs.google.com/spreadsheets/d/1ELzh0OkAH_qY_Y_03Onp5l_XColmfsaLhQe_VqahYAM/edit?gid=0#gid=0
+
+💡 Pro Tips
+Stay consistent and complete the quests before the deadline.
+Share your badges and progress.
+Stay curious and keep exploring!
