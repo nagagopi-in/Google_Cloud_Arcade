@@ -24,5 +24,7 @@ https://docs.google.com/spreadsheets/d/1ELzh0OkAH_qY_Y_03Onp5l_XColmfsaLhQe_Vqah
 
 💡 Pro Tips
 Stay consistent and complete the quests before the deadline.
+
 Share your badges and progress.
+
 Stay curious and keep exploring!
