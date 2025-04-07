@@ -1,4 +1,4 @@
-🌩️ Google Cloud Arcade 2025 – Step-by-Step Participation Guide
+🌩️ Google Cloud Arcade – Step-by-Step Participation Guide
 
 📌 Step-by-Step Guide
 
