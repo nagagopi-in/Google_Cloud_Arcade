@@ -23,6 +23,7 @@ Use this sheet to know about labs and skill badges:
 https://docs.google.com/spreadsheets/d/1ELzh0OkAH_qY_Y_03Onp5l_XColmfsaLhQe_VqahYAM/edit?gid=0#gid=0
 
 💡 Pro Tips
+
 Stay consistent and complete the quests before the deadline.
 
 Share your badges and progress.
